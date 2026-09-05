@@ -1,0 +1,10 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+myenv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
